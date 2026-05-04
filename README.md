@@ -1,11 +1,11 @@
 # Turzx-Blue-Technology-Animated
-Theme for Turzx 9.2 inch screen
-Blue technology animated
+Theme for Turzx 8.8/9.2 inch screen
 
-A customized theme for the **Turzx 8.8-inch (and 9.2/4.6 inch)** smart screens. This version enhances the official layout with high-quality animated elements for a more dynamic look.
+A customized theme for the **Turzx 8.8-inch (and 9.2/4.6 inch)** smart screens. This version enhances the official layout with animated elements for a more dynamic look.
 
 ## 📸 Preview
 ![Turzx Blue Technology Theme](ezgif-8c0749ec9885cf4d.gif)
+The theme shows CPU and GPU usage and Temps with current FPS. RivaTunerStatistics is needed to show fps. 
 
 ## 📥 Installation
 1. [Download Blue Technology Theme](https://github.com/100fino/Turzx-Blue-Technology-Animated/raw/main/Blue%20Technology%20v5.turtheme)
